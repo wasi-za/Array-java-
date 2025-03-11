@@ -1,4 +1,4 @@
-# Array-java-
+# Array (java)
 Array type java problems
 
 Questions
